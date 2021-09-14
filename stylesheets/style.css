@@ -25,6 +25,7 @@ h1{
 video{
     margin:0 auto;
     display: block;
+    max-width: 100%;
 }
 
 h2{
@@ -45,6 +46,9 @@ img{
     margin:0 auto;
 }
 
+#camp{
+    max-width: 100%;
+}
 #phone{
     margin-top: 25px;
 }
